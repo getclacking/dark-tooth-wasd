@@ -1,4 +1,4 @@
-# Darktooth WASD Keybaord layout design
+# Darktooth WASD Keyboard layout design
 
 This is a keyboard layout based on my Emacs theme, Darktooth.
 
