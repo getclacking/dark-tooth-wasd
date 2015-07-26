@@ -2,6 +2,8 @@
 
 This is a keyboard layout based on my Emacs theme, Darktooth.
 
+Layout is Mac / ANSI. 
+
 # License
 
 Permissive BSD license.
