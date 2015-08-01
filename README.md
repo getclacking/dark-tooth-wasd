@@ -20,5 +20,4 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 
 ![](wasd-preview.jpg)
 
-![](wasd-photo.jpg)
-
+![](wasd-photo.png)
