@@ -19,3 +19,6 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 ### WASD Pre-print preview
 
 ![](wasd-preview.jpg)
+
+![](wasd-photo.jpg)
+
