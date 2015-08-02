@@ -14,12 +14,12 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 
 # Previews
 
-![](dark-tooth-wasd.png)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/dark-tooth-wasd.png)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/dark-tooth-wasd.png)
 
-### WASD Pre-print preview
+##### WASD Pre-print preview #####
 
-![](wasd-preview.jpg)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/wasd-preview.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/wasd-preview.jpg)
 
 ### WASD Pre-shipping photo
 
-![](wasd-photo.png)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/wasd-photo.png)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/wasd-photo.png)
