@@ -82,15 +82,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2737027"
-     inkscape:cx="536.72847"
-     inkscape:cy="328.61747"
+     inkscape:zoom="1.0560289"
+     inkscape:cx="711.91307"
+     inkscape:cy="338.08691"
      inkscape:document-units="px"
-     inkscape:current-layer="layer41"
+     inkscape:current-layer="layer40"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
-     inkscape:window-height="1035"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -40677,7 +40677,7 @@
        id="text13042">
       <path
          d="m 188.32487,59.357713 0,-9.375 q 0,-0.24 0.165,-0.42 0.18,-0.18 0.42,-0.18 l 6.495,0 q 0.225,0 0.375,0.165 0.165,0.15 0.165,0.375 0,0.225 -0.165,0.39 -0.15,0.165 -0.375,0.165 l -5.895,0 0,3.75 5.22,0 q 0.225,0 0.375,0.165 0.165,0.15 0.165,0.375 0,0.225 -0.165,0.39 -0.15,0.15 -0.375,0.15 l -5.22,0 0,4.05 q 0,0.255 -0.18,0.435 -0.18,0.165 -0.42,0.165 -0.24,0 -0.42,-0.18 -0.165,-0.18 -0.165,-0.42 z"
-         style=""
+         style="fill:#076678;fill-opacity:1"
          id="path13486" />
       <path
          d="m 199.36862,59.357713 0,-8.865 -1.47,0.48 q -0.135,0.045 -0.255,0.045 -0.21,0 -0.36,-0.15 -0.15,-0.15 -0.15,-0.36 0,-0.36 0.42,-0.51 l 1.725,-0.6 q 0.435,-0.135 0.645,-0.135 l 0.03,0 q 0.255,0 0.42,0.18 0.165,0.165 0.165,0.405 l 0,9.51 q 0,0.255 -0.18,0.435 -0.165,0.165 -0.405,0.165 -0.24,0 -0.42,-0.18 -0.165,-0.18 -0.165,-0.42 z"
@@ -41255,98 +41255,99 @@
      style="display:inline">
     <g
        id="g12444"
-       style="fill:#504945;fill-opacity:1">
+       style="fill:#3c3836;fill-opacity:1"
+       transform="translate(-2,0)">
       <path
          inkscape:connector-curvature="0"
          d="m 829.29922,144.74396 -6.03582,0 0,0.50298 6.03582,0 0,-0.50298 z"
          id="path16158"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 827.34635,180.77181 -2.11704,0 0,0.54803 2.11704,0 0,-0.54803 z"
          id="path16161"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 893.51813,143.55419 0,1.42637 -1.64408,0 0,0.59307 1.64408,0 0,1.47142 0.64562,0 0,-1.47142 1.6516,0 0,-0.59307 -1.6516,0 0,-1.42637 -0.64562,0 z m -1.62156,3.87373 0,0.58556 3.90376,0 0,-0.58556 -3.90376,0 z"
          id="path16164"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 892.27662,182.06597 3.15304,0 0,-0.68316 -3.15304,0 0,0.68316 z m 0,1.41136 3.15304,0 0,-0.69067 -3.15304,0 0,0.69067 z"
          id="path16167"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 858.95368,213.37264 0.43542,0 c 0,0.27777 -0.19519,0.57055 -0.43542,0.6231 l 0,0.47296 c 0.58556,-0.11261 0.95342,-0.63061 0.95342,-1.32127 l 0,-0.73571 -0.95342,0 0,0.96092 z m 1.35881,-0.007 0.44293,0 c 0,0.28527 -0.2027,0.57055 -0.44293,0.6306 l 0,0.47296 c 0.59307,-0.11261 0.95342,-0.63812 0.95342,-1.32127 l 0,-0.74322 -0.95342,0 0,0.96093 z"
          id="path16230"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 861.4089,249.22783 -0.43542,0 c 0,-0.27777 0.19518,-0.57055 0.43542,-0.6231 l 0,-0.47296 c -0.59308,0.11261 -0.95342,0.63061 -0.96093,1.32128 l 0,0.7357 0.96093,0 0,-0.96092 z m -1.36632,0 -0.44293,0 c 0.008,-0.27026 0.2027,-0.56304 0.44293,-0.6156 l 0,-0.47295 c -0.59307,0.11261 -0.95342,0.63061 -0.95342,1.32127 l 0,0.7282 0.95342,0 0,-0.96092 z"
          id="path16233"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 927.07281,213.35012 0.45794,0 c -0.008,0.28528 -0.2102,0.57055 -0.45794,0.63061 l 0,0.47296 c 0.6156,-0.11261 0.99096,-0.63812 0.99096,-1.32128 l 0,-0.73571 -0.99096,0 0,0.95342 z"
          id="path16236"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 928.19907,249.22783 -0.46545,0 c 0.008,-0.27026 0.21021,-0.56304 0.46545,-0.6156 l 0,-0.47295 c -0.61559,0.11261 -0.99095,0.63061 -0.99095,1.32127 l 0,0.7207 0.99095,0 0,-0.95342 z"
          id="path16239"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 807.02941,279.47715 1.41127,0 0,3.28075 q 0,0.67814 0.21994,0.97138 0.2236,0.28959 0.7258,0.28959 0.50586,0 0.72579,-0.28959 0.22361,-0.29324 0.22361,-0.97138 l 0,-3.28075 1.41127,0 0,3.28075 q 0,1.162 -0.58284,1.73018 -0.58283,0.56817 -1.77783,0.56817 -1.19134,0 -1.77418,-0.56817 -0.58283,-0.56818 -0.58283,-1.73018 l 0,-3.28075 z m 2.45598,-1.48826 1.03737,0 -1.04471,0.96773 -0.71846,0 0.7258,-0.96773 z"
          id="path16242"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 873.55497,283.56548 0.90086,0 0.69818,-1.3438 1.60655,0 0,1.3438 3.23561,0 0,-0.72821 -2.33475,0 0,-1.55399 1.77171,0 0,-0.7207 -1.77171,0 0,-1.41136 2.29722,0 0,-0.7282 -3.67104,0 -2.73263,5.14246 z m 3.17556,-4.42927 0.03,0 0,2.3873 -1.26122,0 1.23119,-2.3873 z"
          id="path16245"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 875.39155,318.63504 c 0.60808,0 1.02098,-0.2102 1.35881,-0.57806 0.30029,0.37537 0.80327,0.57806 1.47892,0.57806 0.66815,0 1.11858,-0.18768 1.36632,-0.36035 l 0,-0.59307 c -0.33783,0.16516 -0.69067,0.27777 -1.19365,0.27777 -0.7282,0 -1.13359,-0.27777 -1.17864,-1.11107 l 2.49241,0 0,-0.33783 c 0,-1.22368 -0.48797,-1.8693 -1.60655,-1.8693 -0.518,0 -0.92339,0.18017 -1.20116,0.53301 -0.16516,-0.36785 -0.54052,-0.53301 -1.12609,-0.53301 -0.49547,0 -0.90837,0.0676 -1.26872,0.21771 l 0,0.58557 c 0.24023,-0.0526 0.57055,-0.10511 0.94591,-0.10511 0.65313,0 0.88586,0.12012 0.88586,0.64563 l 0,0.3153 -0.90838,0.11261 c -0.77324,0.0976 -1.2462,0.4129 -1.2462,1.12608 0,0.74322 0.49548,1.09606 1.20116,1.09606 z m 1.10356,-1.00597 c -0.23272,0.25525 -0.5255,0.40539 -0.84832,0.40539 -0.36034,0 -0.60057,-0.17266 -0.60057,-0.54803 0,-0.37536 0.18768,-0.55553 0.58556,-0.58556 l 0.69817,-0.0751 c 0.0225,0.30779 0.0751,0.57805 0.16516,0.80327 z m 1.56901,-2.34976 c 0.52551,0 0.78076,0.27776 0.78076,1.00597 l -1.62157,0 c 0.0525,-0.79577 0.47296,-1.00597 0.84081,-1.00597 z"
          id="path16248"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <g
          id="text14784"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16320"
            d="m 588.06921,297.45605 1.84571,0 0,0.55079 -1.84571,0 0,-0.55079 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14788"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16323"
            d="m 590.43817,327.84729 c -0.744,-0.282 -1.494,-0.552 -2.232,-0.84 l 0,-0.012 c 0.744,-0.276 1.488,-0.552 2.232,-0.84 l 0,-0.528 c -0.966,0.39 -1.926,0.762 -2.898,1.134 l 0,0.462 c 0.966,0.39 1.932,0.768 2.898,1.14 l 0,-0.516 z m 0,1.212 0,-0.45 -2.886,0 0,0.45 2.886,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14792"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16326"
            d="m 642.98522,298.33223 c 0.48,0 0.804,-0.324 0.822,-0.81 l -0.48,0 c -0.036,0.216 -0.12,0.342 -0.342,0.342 -0.204,0 -0.294,-0.126 -0.324,-0.342 l -0.492,0 c 0.024,0.486 0.342,0.81 0.816,0.81 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14796"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16329"
            d="m 644.43817,326.76729 c -0.966,-0.372 -1.932,-0.738 -2.898,-1.128 l 0,0.522 c 0.744,0.288 1.488,0.564 2.232,0.84 l 0,0.012 -0.9,0.336 -1.332,0.504 0,0.522 2.898,-1.146 0,-0.462 z m -0.012,2.292 0,-0.45 -2.886,0 0,0.45 2.886,0 z"
            inkscape:connector-curvature="0" />
@@ -41355,846 +41356,849 @@
          inkscape:connector-curvature="0"
          d="m 843.84108,345.70999 -0.75824,0 0,0.3153 c 0,0.33783 -0.19518,0.48046 -0.55553,0.75823 -0.53301,0.44293 -0.75823,0.78075 -0.75823,1.42638 0,0.92339 0.69066,1.28373 1.52397,1.28373 0.48797,0 0.86333,-0.0676 1.20866,-0.22521 l 0,-0.63812 c -0.32281,0.1051 -0.57806,0.18018 -1.00597,0.18018 -0.54052,0 -0.84832,-0.17267 -0.84832,-0.64563 0,-0.39788 0.14264,-0.69817 0.42792,-0.94591 0.44292,-0.34533 0.76574,-0.63811 0.76574,-1.13359 l 0,-0.37536 z m 0.0525,-1.56151 -0.88586,0 0,0.87084 0.88586,0 0,-0.87084 z"
          id="path16332"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 845.1415,384.98489 0,-0.60058 -3.9413,0 0,0.60058 3.9413,0 z m -1.9744,-1.1486 c 0.30029,0 0.48046,-0.21771 0.48046,-0.5105 -0.008,-0.30029 -0.18017,-0.50298 -0.48046,-0.50298 -0.29278,0 -0.49548,0.20269 -0.49548,0.50298 0,0.29279 0.2027,0.5105 0.48797,0.5105 l 0.008,0 z m 0,2.71011 c 0.30029,0 0.48046,-0.21771 0.48046,-0.49548 -0.008,-0.3078 -0.18017,-0.518 -0.48046,-0.518 -0.29278,0 -0.49548,0.2102 -0.49548,0.518 0,0.27777 0.2027,0.49548 0.48797,0.49548 l 0.008,0 z"
          id="path16335"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 1026.8326,213.46702 -3.4008,-2.33475 -0.2852,0.36786 3.108,2.13205 -3.123,2.02695 0.2327,0.39038 3.4683,-2.25217 0,-0.33032 z m 1.4789,0 -3.3857,-2.35727 -0.2778,0.37536 3.1005,2.14707 -3.1305,2.05698 0.2477,0.38287 3.4458,-2.27469 0,-0.33032 z"
          id="path16338"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 1023.7021,249.68255 3.093,-2.14707 -0.2778,-0.37536 -3.3858,2.35727 0,0.33032 3.4459,2.2747 0.2477,-0.38287 -3.123,-2.05699 z m 1.4789,-0.007 3.123,-2.12455 -0.2928,-0.36786 -3.3932,2.33475 0,0.33032 3.4608,2.25217 0.2327,-0.39037 -3.1305,-2.03446 z"
          id="path16341"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
          d="m 806.78977,315.25458 0.87835,0 0,-0.86333 -0.87835,0 0,0.86333 z m 4.31667,0 0.87834,0 0,-0.86333 -0.87834,0 0,0.86333 z m -2.13957,0 0.87084,0 0,-0.86333 -0.87084,0 0,0.86333 z"
          id="path16344"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none" />
-      <g
-         id="text15226"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16008"
-           d="m 119.05913,139.04909 -0.23,-4.54 q -0.01,-0.13 0.07,-0.22 0.09,-0.1 0.22,-0.1 l 0.35,0 q 0.13,0 0.21,0.09 0.09,0.09 0.08,0.23 l -0.23,4.54 q -0.01,0.1 -0.08,0.17 -0.06,0.06 -0.15,0.06 -0.22,0 -0.24,-0.23 z m -0.24,1.54 q 0,-0.2 0.13,-0.33 0.14,-0.14 0.35,-0.14 0.2,0 0.33,0.14 0.14,0.13 0.14,0.33 l 0,0.2 q 0,0.2 -0.14,0.34 -0.13,0.14 -0.33,0.14 -0.21,0 -0.35,-0.14 -0.13,-0.14 -0.13,-0.34 l 0,-0.2 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15230"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.60951996px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16011"
-           d="m 172.96498,141.38534 q -1.63581,0 -2.73783,-1.10202 -1.10202,-1.0934 -1.10202,-2.65173 0,-1.54971 1.09341,-2.66034 1.10202,-1.11063 2.67756,-1.11063 1.55833,0 2.65174,1.02454 1.10201,1.01592 1.10201,2.38483 0,1.02454 -0.48213,1.56693 -0.47352,0.5424 -1.12785,0.5424 -0.4563,0 -0.76624,-0.1894 -0.30995,-0.19802 -0.43909,-0.5338 -0.61128,0.7232 -1.42057,0.7232 -0.64571,0 -1.09341,-0.43047 -0.44769,-0.43909 -0.44769,-1.13646 0,-0.88678 0.61127,-1.51527 0.61989,-0.6285 1.37752,-0.6285 0.85235,0 1.25699,0.71459 l 0.0689,-0.37021 q 0.0517,-0.29272 0.30133,-0.29272 0.13776,0 0.22385,0.11192 0.0861,0.10332 0.0603,0.24968 l -0.30994,1.73912 q -0.0603,0.33577 -0.0603,0.52518 0,0.32716 0.18941,0.51657 0.19802,0.1808 0.5424,0.1808 0.49935,0 0.85234,-0.4563 0.35299,-0.45631 0.35299,-1.31726 0,-1.22255 -1.00731,-2.1696 -0.99871,-0.94704 -2.4365,-0.94704 -1.47222,0 -2.47093,1.01592 -0.99009,1.01592 -0.99009,2.46232 0,1.45501 0.9987,2.45372 0.9987,1.00731 2.5312,1.00731 1.11924,0 2.07489,-0.55101 0.0344,-0.0172 0.0861,-0.0172 0.0517,0 0.0861,0.043 0.043,0.043 0.043,0.0947 0,0.0517 -0.0689,0.12054 -1.03315,0.60266 -2.22126,0.60266 z m -0.42187,-2.53981 q 0.55101,0 0.98149,-0.46491 0.43047,-0.47352 0.43047,-1.0848 0,-0.47352 -0.30133,-0.78347 -0.29272,-0.30994 -0.74903,-0.30994 -0.55962,0 -0.99009,0.45631 -0.42187,0.4563 -0.42187,1.11062 0,0.49936 0.29272,0.79208 0.29273,0.28411 0.75764,0.28411 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15234"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.22530937px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.2107983,0,0,1.2929622,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16014"
-           d="m 232.17949,136.16864 0.22141,-1.29154 -0.73803,0 q -0.12915,0 -0.22141,-0.0923 -0.0923,-0.0923 -0.0923,-0.22141 0,-0.12916 0.0923,-0.22141 0.0923,-0.10148 0.22141,-0.10148 l 0.84873,0 0.34134,-1.95576 -0.83028,0 q -0.12916,0 -0.23063,-0.0923 -0.0923,-0.0923 -0.0923,-0.2214 0,-0.12916 0.0923,-0.22141 0.10147,-0.10148 0.23063,-0.10148 l 0.94098,0 0.23063,-1.35612 q 0.0185,-0.12915 0.11071,-0.20296 0.0923,-0.083 0.21218,-0.083 0.15683,0 0.23986,0.11993 0.0922,0.11992 0.0738,0.26753 l -0.22141,1.25464 1.73436,0 0.23063,-1.35612 q 0.0185,-0.12915 0.11071,-0.20296 0.0922,-0.083 0.21218,-0.083 0.15683,0 0.23986,0.11993 0.0923,0.11992 0.0738,0.26753 l -0.21218,1.25464 0.7288,0 q 0.12915,0 0.2214,0.0923 0.10148,0.0923 0.10148,0.22141 0,0.12916 -0.10148,0.23063 -0.0923,0.0923 -0.2214,0.0923 l -0.83951,0 -0.34133,1.95576 0.82105,0 q 0.12915,0 0.22141,0.0923 0.10148,0.0923 0.10148,0.2214 0,0.12916 -0.10148,0.23064 -0.0923,0.0923 -0.22141,0.0923 l -0.93176,0 -0.23985,1.39302 q -0.009,0.11993 -0.10148,0.20296 -0.0923,0.083 -0.22141,0.083 -0.15683,0 -0.24908,-0.11993 -0.083,-0.11993 -0.0646,-0.26754 l 0.23063,-1.29154 -1.73436,0 -0.23985,1.39302 q -0.0185,0.11993 -0.11071,0.20296 -0.083,0.083 -0.21218,0.083 -0.15683,0 -0.24908,-0.11071 -0.083,-0.11993 -0.0646,-0.27676 z m 0.98711,-1.92809 1.72513,0 0.34134,-1.95576 -1.72514,0 -0.34133,1.95576 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15238"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16017"
-           d="m 280.5725,134.22302 q 0,-0.13 0.09,-0.22 0.1,-0.1 0.23,-0.1 0.13,0 0.22,0.1 0.1,0.09 0.1,0.22 l 0,0.33 q 0.9,0.1 1.69,0.64 0.2,0.15 0.2,0.33 0,0.16 -0.11,0.26 -0.11,0.1 -0.27,0.1 -0.13,0 -0.22,-0.07 -0.66,-0.48 -1.32,-0.58 l 0,2.47 q 1.14,0.25 1.65,0.72 0.51,0.46 0.51,1.22 0,0.8 -0.59,1.32 -0.59,0.51 -1.54,0.57 l 0,0.71 q 0,0.13 -0.1,0.22 -0.09,0.1 -0.22,0.1 -0.13,0 -0.23,-0.1 -0.09,-0.09 -0.09,-0.22 l 0,-0.73 q -1.16,-0.1 -2.17,-0.89 -0.17,-0.12 -0.17,-0.32 0,-0.15 0.11,-0.25 0.11,-0.11 0.26,-0.11 0.13,0 0.23,0.08 0.84,0.71 1.77,0.82 l 0,-2.51 q -1.12,-0.27 -1.63,-0.72 -0.5,-0.45 -0.5,-1.23 0,-0.77 0.59,-1.28 0.59,-0.52 1.51,-0.57 l 0,-0.31 z m 2,5.47 q 0,-0.46 -0.3,-0.74 -0.3,-0.29 -1.09,-0.49 l 0,2.41 q 0.64,-0.04 1.01,-0.36 0.38,-0.32 0.38,-0.82 z m -3.33,-3.36 q 0,0.46 0.29,0.74 0.29,0.28 1.07,0.49 l 0,-2.36 q -0.62,0.03 -0.99,0.35 -0.37,0.31 -0.37,0.78 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15242"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16020"
-           d="m 335.42634,137.19908 q -0.45,0.53 -1.14,0.53 -0.69,0 -1.14,-0.52 -0.44,-0.52 -0.44,-1.25 l 0,-0.02 q 0,-0.73 0.45,-1.26 0.45,-0.53 1.15,-0.53 0.69,0 1.13,0.52 0.44,0.52 0.44,1.25 l 0,0.02 q 0,0.73 -0.45,1.26 z m -1.75,3.8 q 0,-0.1 0.06,-0.19 l 4.76,-6.49 q 0.11,-0.14 0.25,-0.14 0.12,0 0.2,0.09 0.09,0.08 0.09,0.19 0,0.1 -0.06,0.19 l -4.76,6.49 q -0.1,0.14 -0.25,0.14 -0.12,0 -0.21,-0.08 -0.08,-0.09 -0.08,-0.2 z m 4.73,0.31 q -0.69,0 -1.13,-0.52 -0.44,-0.52 -0.44,-1.25 l 0,-0.02 q 0,-0.73 0.45,-1.26 0.45,-0.53 1.14,-0.53 0.69,0 1.13,0.52 0.44,0.52 0.44,1.25 l 0,0.02 q 0,0.74 -0.45,1.27 -0.44,0.52 -1.14,0.52 z m -4.1,-4.14 q 0.4,0 0.65,-0.35 0.26,-0.35 0.26,-0.86 l 0,-0.02 q 0,-0.52 -0.27,-0.87 -0.27,-0.36 -0.66,-0.36 -0.4,0 -0.66,0.35 -0.25,0.35 -0.25,0.86 l 0,0.02 q 0,0.52 0.27,0.88 0.27,0.35 0.66,0.35 z m 4.12,3.58 q 0.4,0 0.65,-0.35 0.26,-0.35 0.26,-0.86 l 0,-0.02 q 0,-0.52 -0.27,-0.87 -0.27,-0.36 -0.66,-0.36 -0.4,0 -0.66,0.35 -0.25,0.35 -0.25,0.86 l 0,0.02 q 0,0.52 0.27,0.88 0.27,0.35 0.66,0.35 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15246"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.92095947px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.2077887,0,0,1.296184,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16023"
-           d="m 402.74764,131.33488 -1.60801,2.11749 q -0.31842,0.39802 -0.79605,0.39802 -0.12737,0 -0.2229,-0.0637 -0.0796,-0.0796 -0.0796,-0.15921 0,-0.14329 0.11145,-0.3025 l 1.89459,-2.53143 q 0.31842,-0.39803 0.65276,-0.39803 l 0.12737,0 q 0.33434,0 0.65276,0.39803 l 1.87867,2.53143 q 0.12737,0.14329 0.12737,0.3025 0,0.22289 -0.31842,0.22289 -0.49355,0 -0.81197,-0.39802 l -1.60802,-2.11749 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15250"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16026"
-           d="m 445.72751,141.52302 q -0.1,0.1 -0.26,0.1 -0.16,0 -0.32,-0.14 l -0.91,-0.95 q -1.02,1.1 -2.3,1.1 -0.95,0 -1.58,-0.54 -0.62,-0.55 -0.62,-1.42 l 0,-0.02 q 0,-1.36 1.69,-2.02 -0.7,-0.82 -0.7,-1.54 l 0,-0.02 q 0,-0.7 0.51,-1.18 0.52,-0.48 1.34,-0.48 0.73,0 1.21,0.46 0.49,0.46 0.49,1.12 l 0,0.02 q 0,1.24 -1.65,1.82 l 1.6,1.63 q 0.41,-0.61 0.73,-1.33 0.11,-0.21 0.32,-0.21 0.15,0 0.25,0.11 0.11,0.1 0.11,0.25 0,0.08 -0.05,0.18 -0.42,0.88 -0.87,1.49 l 0.97,0.99 q 0.15,0.17 0.15,0.31 0,0.16 -0.11,0.27 z m -3.54,-4.14 q 1.35,-0.46 1.35,-1.33 l 0,-0.02 q 0,-0.42 -0.28,-0.69 -0.28,-0.28 -0.71,-0.28 -0.47,0 -0.77,0.29 -0.29,0.29 -0.29,0.72 l 0,0.02 q 0,0.31 0.15,0.59 0.15,0.27 0.55,0.7 z m -0.19,3.58 q 0.94,0 1.76,-0.92 l -1.88,-1.92 q -0.67,0.25 -1.01,0.65 -0.33,0.39 -0.33,0.85 l 0,0.02 q 0,0.57 0.41,0.95 0.41,0.37 1.05,0.37 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15254"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16029"
-           d="m 496.36749,140.18302 0.14,-1.785 -1.47,1.0325 q -0.1925,0.14 -0.35,0.14 -0.175,0 -0.315,-0.1225 -0.1225,-0.14 -0.1225,-0.3325 0,-0.2975 0.315,-0.4025 l 1.6975,-0.7875 -1.6975,-0.7875 q -0.315,-0.1575 -0.315,-0.42 0,-0.175 0.1225,-0.2975 0.14,-0.14 0.315,-0.1575 0.1575,0 0.35,0.14 l 1.47,1.0325 -0.14,-1.7675 q -0.0175,-0.21 0.105,-0.35 0.1225,-0.1575 0.315,-0.1575 0.1925,0 0.315,0.1575 0.14,0.14 0.105,0.3325 l -0.14,1.785 1.47,-1.0325 q 0.1925,-0.14 0.35,-0.14 0.175,0 0.2975,0.14 0.14,0.1225 0.14,0.315 0,0.28 -0.315,0.42 l -1.6975,0.7875 1.6975,0.7875 q 0.315,0.105 0.315,0.4025 0,0.175 -0.14,0.315 -0.1225,0.14 -0.2975,0.14 -0.1575,0 -0.35,-0.14 l -1.47,-1.0325 0.14,1.785 q 0.035,0.1925 -0.105,0.35 -0.1225,0.14 -0.315,0.14 -0.1925,0 -0.3325,-0.14 -0.1225,-0.1575 -0.0875,-0.35 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15258"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16032"
-           d="m 551.94251,141.96908 q -0.14,0 -0.18,-0.04 -2.63,-1.55 -2.63,-4.2 0,-2.65 2.63,-4.2 0.04,-0.04 0.18,-0.04 0.12,0 0.21,0.09 0.09,0.09 0.09,0.21 0,0.17 -0.15,0.27 -2.18,1.43 -2.18,3.67 0,2.24 2.18,3.67 0.15,0.1 0.15,0.27 0,0.12 -0.09,0.21 -0.09,0.09 -0.21,0.09 z"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="text15262"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
-        <path
-           style="fill:#9f927b;fill-opacity:1"
-           id="path16035"
-           d="m 603.43252,141.96908 q -0.12,0 -0.21,-0.09 -0.09,-0.09 -0.09,-0.21 0,-0.17 0.15,-0.27 2.18,-1.43 2.18,-3.67 0,-2.24 -2.18,-3.67 -0.15,-0.1 -0.15,-0.27 0,-0.12 0.09,-0.21 0.09,-0.09 0.21,-0.09 0.14,0 0.18,0.04 2.63,1.55 2.63,4.2 0,2.65 -2.63,4.2 -0.04,0.04 -0.18,0.04 z"
-           inkscape:connector-curvature="0" />
-      </g>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none" />
       <g
          id="text14488"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16098"
            d="m 145.53973,134.60506 -2.2998,4.38867 -0.78809,0 2.29981,-4.38867 0.78808,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14492"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16101"
            d="m 143.56882,166.61521 0.744,0 c -0.018,-1.014 -0.054,-2.034 -0.078,-3.06 l -0.582,0 -0.084,3.06 z m 0.024,-3.612 0.708,0 0,-0.696 -0.708,0 0,0.696 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14496"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
+         transform="matrix(1.251206,0,0,1.251206,-28.779255,-24.870873)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16104"
            d="m 199.27959,138.75349 q -0.27832,0.16114 -0.58301,0.24317 -0.30176,0.082 -0.62988,0.082 -0.76758,0 -1.29493,-0.38086 -0.52441,-0.38379 -0.74414,-1.10156 l -0.63574,0 0.25781,-0.57129 0.28711,0 q -0.003,-0.041 -0.006,-0.085 0,-0.0469 0,-0.12891 0,-0.085 0,-0.13183 0.003,-0.0469 0.006,-0.0908 l -0.54492,0 0.25781,-0.57129 0.37793,0 q 0.22559,-0.72071 0.74707,-1.09864 0.52442,-0.37793 1.292,-0.37793 0.32812,0 0.62988,0.082 0.30469,0.082 0.58301,0.24317 l 0,0.90527 q -0.23731,-0.22851 -0.50684,-0.34277 -0.26953,-0.11719 -0.55957,-0.11719 -0.37207,0 -0.63574,0.18164 -0.26074,0.17871 -0.39258,0.52442 l 1.5791,0 -0.25195,0.57129 -1.44434,0 q -0.006,0.0469 -0.009,0.0996 0,0.0527 0,0.15821 0,0.0381 0,0.085 0.003,0.0439 0.006,0.0937 l 1.25684,0 -0.26074,0.57129 -0.87598,0 q 0.14648,0.35742 0.40137,0.53613 0.25781,0.17871 0.62695,0.17871 0.29004,0 0.55371,-0.11426 0.2666,-0.11718 0.5127,-0.34863 l 0,0.90527 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14500"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16107"
            d="m 197.4901,166.18171 0.408,0 0,-1.14 0.018,0 c 0.12,0.384 0.234,0.762 0.36,1.14 l 0.426,0 c 0.114,-0.378 0.24,-0.762 0.36,-1.14 l 0.012,0 0,1.14 0.504,0 0,-1.758 -0.684,0 -0.366,1.134 -0.018,0 c -0.114,-0.378 -0.234,-0.756 -0.354,-1.134 l -0.666,0 0,1.758 z m -1.26,0 0.522,0 0,-1.32 0.48,0 0,-0.438 -1.488,0 0,0.438 0.486,0 0,1.32 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14504"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
-         transform="matrix(1.2107984,0,0,1.2929622,-28.779255,-25.068833)">
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
+         transform="matrix(1.2107984,0,0,1.2929622,-28.779255,-23.849769)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16110"
            d="m 260.62258,131.6016 1.77,-2.232 -0.282,-0.216 -1.926,2.448 1.932,2.448 0.276,-0.216 -1.77,-2.232 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14508"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16113"
            d="m 250.26135,165.67958 0.444,0 0,0.324 c 0,0.504 -0.174,0.768 -0.492,0.936 l 0,0.522 2.778,0 0,-0.576 -1.962,0 0,-0.012 c 0.27,-0.204 0.408,-0.456 0.408,-0.954 l 0,-0.24 1.038,0 0,-0.504 -1.038,0 0,-0.48 c 0,-0.648 0.402,-0.81 0.81,-0.81 0.306,0 0.474,0.042 0.702,0.114 l 0,-0.534 c -0.18,-0.096 -0.456,-0.174 -0.864,-0.174 -0.726,0 -1.38,0.39 -1.38,1.35 l 0,0.534 -0.444,0 0,0.504 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14512"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16116"
            d="m 305.3945,168.1709 0.432,0 0.09,-0.648 0.042,0 c 0.42,-0.006 0.696,-0.108 0.888,-0.234 l 0,-0.468 c -0.15,0.066 -0.414,0.174 -0.798,0.174 l -0.042,0 0.324,-2.094 c 0.186,0.024 0.312,0.078 0.486,0.144 l 0,-0.516 c -0.114,-0.072 -0.24,-0.126 -0.402,-0.156 0.018,-0.132 0.036,-0.27 0.06,-0.402 l -0.432,0 -0.06,0.366 -0.024,0 c -0.87,0 -1.512,0.498 -1.512,1.566 l 0,0.102 c 0,0.852 0.378,1.344 1.05,1.476 -0.03,0.234 -0.066,0.456 -0.102,0.69 z m -0.252,-2.202 0,-0.138 c 0,-0.582 0.288,-0.906 0.756,-0.942 l -0.306,2.022 c -0.3,-0.132 -0.45,-0.444 -0.45,-0.942 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14516"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
+         transform="matrix(1.251206,0,0,1.251206,-26.779255,-23.879474)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16119"
            d="m 303.09698,138.24925 0.276,0.216 1.938,-2.448 -1.932,-2.448 -0.282,0.216 1.776,2.232 -1.776,2.232 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14520"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16122"
            d="m 360.25967,134.68855 1.05762,0 0,0.85547 -1.05762,0 0,-0.85547 z m -0.21679,0 0,0.68848 -0.58008,0 q -0.21973,0 -0.30469,0.082 -0.085,0.0791 -0.085,0.27832 l 0,0.22852 2.24414,0 0,3.28125 -1.05762,0 0,-2.53125 -1.18652,0 0,2.53125 -1.05762,0 0,-2.53125 -0.51562,0 0,-0.75 0.51562,0 0,-0.22852 q 0,-0.53613 0.29883,-0.79101 0.29883,-0.25782 0.92578,-0.25782 l 0.80274,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14524"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16125"
            d="m 360.50481,166.60671 c 0.534,0 0.912,-0.438 0.912,-0.96 0,-0.558 -0.348,-0.954 -0.864,-0.954 -0.474,0 -0.768,0.324 -1.056,0.63 -0.276,-0.294 -0.594,-0.63 -1.014,-0.63 -0.546,0 -0.918,0.438 -0.918,0.954 0,0.558 0.354,0.96 0.87,0.96 0.474,0 0.768,-0.33 1.062,-0.63 0.27,0.3 0.594,0.63 1.008,0.63 z m 0,-0.462 c -0.294,0 -0.504,-0.294 -0.714,-0.504 0.186,-0.21 0.444,-0.492 0.732,-0.492 0.246,0 0.432,0.21 0.432,0.498 0,0.27 -0.198,0.498 -0.45,0.498 z m -2.04,0 c -0.246,0 -0.432,-0.21 -0.432,-0.498 0,-0.27 0.192,-0.498 0.45,-0.498 0.282,0 0.552,0.306 0.714,0.498 -0.198,0.234 -0.45,0.498 -0.732,0.498 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14528"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16128"
            d="m 413.23428,134.68855 2.08301,0 0,4.5586 -1.05762,0 0,-3.87012 -0.80273,0 q -0.22266,0 -0.31055,0.082 -0.0879,0.0791 -0.0879,0.27832 l 0,0.22852 0.82324,0 0,0.75 -0.82324,0 0,2.53125 -1.04883,0 0,-2.53125 -0.52148,0 0,-0.75 0.52148,0 0,-0.22852 q 0,-0.53613 0.29883,-0.79101 0.29883,-0.25782 0.92578,-0.25782 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14532"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16131"
            d="m 413.38891,167.90726 c 0.834,0 1.302,-0.366 1.302,-1.044 0,-0.318 -0.102,-0.54 -0.312,-0.696 0.348,-0.126 0.558,-0.354 0.558,-0.786 0,-0.6 -0.342,-0.816 -0.954,-0.978 l -0.534,-0.156 c -0.312,-0.102 -0.402,-0.198 -0.402,-0.456 0,-0.258 0.24,-0.384 0.636,-0.384 0.372,0 0.672,0.09 0.87,0.174 l 0,-0.528 c -0.216,-0.108 -0.462,-0.21 -0.93,-0.21 -0.84,0 -1.26,0.402 -1.26,1.002 0,0.336 0.114,0.57 0.294,0.72 -0.354,0.126 -0.564,0.36 -0.564,0.768 0,0.588 0.39,0.84 0.918,0.984 l 0.486,0.138 c 0.39,0.114 0.48,0.204 0.48,0.462 0,0.27 -0.21,0.432 -0.684,0.432 -0.444,0 -0.69,-0.096 -0.972,-0.216 l 0,0.534 c 0.27,0.15 0.624,0.24 1.068,0.24 z m 0.324,-2.946 c 0.402,0.126 0.528,0.234 0.528,0.504 0,0.228 -0.15,0.39 -0.462,0.45 -0.018,-0.012 -0.048,-0.012 -0.066,-0.024 l -0.468,-0.138 c -0.354,-0.096 -0.48,-0.24 -0.48,-0.492 0,-0.24 0.156,-0.402 0.45,-0.444 l 0.048,0.012 0.45,0.132 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14536"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
-         transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
+         transform="matrix(1.251206,0,0,1.251206,-28.779255,-24.163942)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16134"
            d="m 467.2064,134.01862 0.012,1.206 -1.044,-0.012 0,0.48 1.044,-0.012 0,0.636 -1.044,-0.012 0,0.468 1.038,-0.012 -0.012,1.71 0.582,0 -0.012,-1.71 1.05,0.012 0,-0.468 -1.05,0.012 0,-0.636 1.05,0.012 0,-0.48 -1.05,0.012 0.012,-1.206 -0.576,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14540"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16137"
            d="m 467.43792,167.87703 0.444,0 0,-4.41 0.474,0 0,4.41 0.45,0 0,-4.824 -1.458,0 c -0.978,0 -1.344,0.48 -1.344,1.08 0,0.684 0.534,1.056 1.182,1.056 l 0.252,0 0,2.688 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14544"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16140"
            d="m 521.49986,135.79609 c -0.486,0 -0.876,0.372 -0.876,0.864 0,0.45 0.366,0.822 0.87,0.822 0.45,0 0.876,-0.336 0.876,-0.852 0,-0.438 -0.342,-0.834 -0.864,-0.834 l -0.006,0 z m -0.006,0.342 c 0.318,0 0.468,0.27 0.468,0.498 0,0.288 -0.198,0.51 -0.468,0.51 -0.264,0 -0.462,-0.222 -0.462,-0.492 0,-0.252 0.168,-0.516 0.456,-0.516 l 0.006,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14548"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16143"
            d="m 522.12876,165.64671 c 0,-0.342 -0.282,-0.624 -0.63,-0.624 -0.342,0 -0.624,0.282 -0.624,0.624 0,0.348 0.282,0.624 0.624,0.624 0.348,0 0.63,-0.276 0.63,-0.624 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14552"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16146"
            d="m 575.01056,137.0648 0.702,0 0,-0.696 -0.702,0 0,0.696 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14556"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16149"
            d="m 575.11382,167.38033 c 0.36,0 0.594,-0.114 0.726,-0.276 l 0.024,0 0.054,0.228 0.54,0 0,-1.896 c 0,-0.582 -0.39,-0.822 -1.02,-0.822 -0.378,0 -0.684,0.054 -0.948,0.15 l 0,0.444 c 0.18,-0.036 0.42,-0.09 0.69,-0.09 0.462,0 0.63,0.096 0.63,0.462 l 0,0.12 -0.642,0.072 c -0.552,0.072 -0.906,0.312 -0.906,0.828 0,0.528 0.366,0.78 0.852,0.78 z m 0.204,-0.45 c -0.246,0 -0.414,-0.108 -0.414,-0.378 0,-0.264 0.138,-0.378 0.408,-0.408 l 0.498,-0.048 0,0.678 c -0.096,0.096 -0.294,0.156 -0.492,0.156 z m -0.858,1.266 1.998,0 0,-0.576 -1.998,0 0,0.576 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14560"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16152"
            d="m 628.97314,135.49129 0.9961,0 0,0.83496 -0.67383,1.03125 -0.61816,0 0.29589,-1.03125 0,-0.83496 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14564"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16155"
            d="m 629.3782,167.36233 c 0.78,0 1.326,-0.45 1.326,-1.344 l 0,-0.084 c 0,-0.882 -0.48,-1.32 -1.32,-1.32 -0.768,0 -1.314,0.444 -1.314,1.344 l 0,0.084 c 0,0.864 0.468,1.32 1.308,1.32 z m 0.012,-0.48 c -0.366,0 -0.66,-0.144 -0.66,-0.834 l 0,-0.138 c 0,-0.594 0.234,-0.816 0.642,-0.816 0.366,0 0.66,0.132 0.66,0.834 l 0,0.144 c 0,0.588 -0.228,0.81 -0.642,0.81 z m -1.002,1.314 1.998,0 0,-0.576 -1.998,0 0,0.576 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14584"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16170"
            d="m 169.97286,192.67239 3.15,0 0,-0.582 -1.86,0 0,-1.242 1.41,0 0,-0.576 -1.41,0 0,-1.128 1.83,0 0,-0.582 -3.132,0 c -1.284,0 -1.926,0.72 -1.926,2.04 l 0,0.12 c 0,1.344 0.708,1.95 1.938,1.95 z m 0.054,-0.582 c -0.762,0 -1.212,-0.324 -1.212,-1.362 l 0,-0.198 c 0,-0.996 0.372,-1.386 1.146,-1.386 l 0.564,0 0,2.946 -0.498,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14588"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16173"
            d="m 169.57683,220.69807 c 0.492,0 0.87,-0.192 1.104,-0.558 0.216,0.36 0.606,0.558 1.194,0.558 0.51,0 0.87,-0.15 1.062,-0.288 l 0,-0.474 c -0.264,0.132 -0.546,0.222 -0.948,0.222 -0.582,0 -0.9,-0.222 -0.948,-0.876 l 2.004,0 0,-0.282 c 0,-0.978 -0.396,-1.494 -1.296,-1.494 -0.456,0 -0.828,0.18 -1.044,0.546 -0.222,-0.354 -0.588,-0.546 -1.122,-0.546 -0.864,0 -1.464,0.57 -1.464,1.566 l 0,0.096 c 0,0.96 0.522,1.53 1.458,1.53 z m 0.018,-0.522 c -0.438,0 -0.768,-0.21 -0.768,-1.008 l 0,-0.15 c 0,-0.666 0.276,-0.99 0.75,-0.99 0.414,0 0.75,0.216 0.75,1.014 l 0,0.156 c 0,0.66 -0.27,0.978 -0.732,0.978 z m 2.13,-2.16 c 0.414,0 0.612,0.222 0.612,0.81 l -1.296,0 c 0.048,-0.636 0.384,-0.81 0.684,-0.81 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14592"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16176"
            d="m 221.99216,188.64429 0.99609,0 0,0.83496 -0.67383,1.03125 -0.61816,0 0.2959,-1.03125 0,-0.83496 z m 1.48242,0 0.99609,0 0,0.84082 -0.66797,1.02539 -0.62402,0 0.2959,-1.02539 0,-0.84082 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14596"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16179"
            d="m 226.27606,221.53 0,-0.594 -2.22,0 0,-0.024 c 0.426,-0.552 0.864,-1.104 1.29,-1.656 -0.402,-0.552 -0.81,-1.098 -1.218,-1.65 l 0,-0.018 1.962,0 0,-0.594 -2.868,0 0,0.474 1.356,1.818 c -0.48,0.606 -0.954,1.224 -1.434,1.818 l 0,0.426 3.132,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14600"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16182"
            d="m 277.872,190.91324 0.564,0 0.654,-0.906 -0.708,0 -0.51,0.906 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14604"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16185"
            d="m 277.872,219.72574 0.564,0 0.654,-0.906 -0.708,0 -0.51,0.906 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14608"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16188"
            d="m 331.22093,189.88239 c -0.006,0.366 -0.096,0.696 -0.312,0.696 -0.204,0 -0.3,-0.306 -0.3,-0.696 0,-0.384 0.102,-0.69 0.306,-0.69 0.216,0 0.306,0.306 0.306,0.69 z m 1.662,1.812 c 0,0.384 -0.102,0.69 -0.306,0.69 -0.21,0 -0.3,-0.306 -0.3,-0.69 0,-0.39 0.096,-0.696 0.3,-0.696 0.21,0 0.306,0.306 0.306,0.696 z m 1.482,0 c 0,0.384 -0.096,0.69 -0.294,0.69 -0.216,0 -0.312,-0.306 -0.312,-0.69 0,-0.39 0.102,-0.696 0.318,-0.696 0.198,0 0.288,0.306 0.288,0.696 z m -1.602,-3 -2.4,4.182 0.426,0 2.394,-4.182 -0.42,0 z m -1.854,0.102 c -0.468,0 -0.72,0.396 -0.72,1.086 0,0.696 0.258,1.092 0.726,1.092 0.462,0 0.726,-0.396 0.72,-1.098 0,-0.684 -0.258,-1.08 -0.726,-1.08 z m 2.4,2.898 c 0,-0.696 -0.264,-1.092 -0.732,-1.092 -0.468,0 -0.726,0.396 -0.726,1.092 0,0.69 0.264,1.08 0.726,1.08 0.468,0 0.732,-0.39 0.732,-1.08 z m 1.488,0 c 0,-0.696 -0.258,-1.092 -0.726,-1.092 -0.474,0 -0.738,0.396 -0.738,1.092 0,0.69 0.27,1.08 0.744,1.08 0.462,0 0.72,-0.39 0.72,-1.08 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14612"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16191"
            d="m 332.48477,217.92001 q -0.35449,0 -0.65918,0.12891 -0.30469,0.12598 -0.55957,0.38086 -0.25488,0.25488 -0.38379,0.55957 -0.12597,0.30176 -0.12597,0.65918 0,0.35449 0.12597,0.65918 0.12891,0.30176 0.38379,0.55664 0.25195,0.25195 0.55664,0.37793 0.30762,0.12598 0.66211,0.12598 0.36035,0 0.66211,-0.12305 0.30176,-0.12598 0.55664,-0.38086 0.25488,-0.25488 0.38086,-0.55664 0.12891,-0.30469 0.12891,-0.65918 0,-0.35742 -0.12891,-0.65918 -0.12598,-0.30469 -0.38086,-0.55957 -0.25781,-0.25781 -0.5625,-0.38379 -0.30176,-0.12598 -0.65625,-0.12598 z m -0.16699,0.86426 -0.10254,0 0,0.60645 0.10254,0 q 0.22852,0 0.34277,-0.0762 0.11719,-0.0791 0.11719,-0.23144 0,-0.15234 -0.11426,-0.22559 -0.11133,-0.0732 -0.3457,-0.0732 z m 0.1084,-0.4043 q 0.51562,0 0.77051,0.17579 0.25488,0.17285 0.25488,0.52734 0,0.25195 -0.15527,0.41601 -0.15235,0.16407 -0.4336,0.21387 0.12012,0.0645 0.22266,0.18164 0.10547,0.11719 0.19043,0.28711 l 0.32519,0.64746 -0.6709,0 -0.31347,-0.62402 q -0.11133,-0.22852 -0.19629,-0.32227 -0.085,-0.0967 -0.16992,-0.0967 l -0.0352,0 0,1.04297 -0.62402,0 0,-2.44922 0.83496,0 z m 0.0586,-0.91113 q 0.44531,0 0.8291,0.16113 0.38672,0.16114 0.70606,0.48047 0.31933,0.31934 0.47754,0.70313 0.1582,0.38379 0.1582,0.83496 0,0.44531 -0.1582,0.8291 -0.15821,0.38086 -0.47754,0.7002 -0.31934,0.31933 -0.70606,0.48046 -0.38379,0.16114 -0.8291,0.16114 -0.44531,0 -0.83203,-0.16114 -0.38379,-0.16113 -0.70312,-0.48046 -0.31934,-0.31934 -0.47754,-0.7002 -0.15821,-0.38379 -0.15821,-0.8291 0,-0.45117 0.15821,-0.83496 0.1582,-0.38379 0.47754,-0.70313 0.31933,-0.31933 0.70312,-0.48047 0.38672,-0.16113 0.83203,-0.16113 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14616"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16194"
            d="m 387.33125,190.01324 -0.474,0 c -0.114,0.144 -0.24,0.288 -0.366,0.426 -0.126,-0.138 -0.234,-0.234 -0.384,-0.426 l -0.51,0 c 0.192,0.354 0.426,0.63 0.624,0.906 l 0.528,0 0.384,-0.546 0.216,-0.324 -0.018,-0.036 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14620"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16197"
            d="m 386.2184,216.84578 0.006,1.266 -1.05,-0.012 0,0.474 1.05,-0.012 -0.006,2.736 0.552,0 -0.012,-2.736 1.062,0.012 0,-0.474 -1.062,0.012 0.012,-1.266 -0.552,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14624"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16200"
            d="m 441.37393,193.02011 -1.76367,0 -0.27832,0.79688 -1.13379,0 1.62012,-4.37403 1.34472,0 1.62012,4.37403 -1.13379,0 -0.27539,-0.79688 z m -1.48242,-0.81152 1.19824,0 -0.59765,-1.74024 -0.60059,1.74024 z m 0.67676,-3.95508 0.8291,0 -0.83496,0.77344 -0.57422,0 0.58008,-0.77344 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14628"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16203"
            d="m 440.13814,221.48796 0.738,0 0,-0.762 0.96,0 0,-0.504 -0.96,0 0,-0.372 0.96,0 0,-0.516 -0.798,0 1.116,-1.95 -0.702,0 -0.888,1.644 -0.03,0 -0.888,-1.644 -0.792,0 1.122,1.95 -0.792,0 0,0.516 0.954,0 0,0.372 -0.954,0 0,0.504 0.954,0 0,0.762 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14632"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16206"
            d="m 493.68272,190.58307 0.6,0 0,-0.612 -0.6,0 0,0.612 z m 1.026,0 0.594,0 0,-0.612 -0.594,0 0,0.612 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14636"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16209"
            d="m 493.68272,219.39557 0.6,0 0,-0.612 -0.6,0 0,0.612 z m 1.026,0 0.594,0 0,-0.612 -0.594,0 0,0.612 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14640"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16212"
            d="m 548.13757,189.88242 0.70899,0 0.75,1.10156 -0.52149,0 -0.583,-0.65918 -0.58301,0.65918 -0.52149,0 0.75,-1.10156 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14644"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16215"
            d="m 547.3321,220.02967 0.588,0 0.576,-0.864 0.576,0.864 0.576,0 -0.87,-1.458 -0.57,0 -0.876,1.458 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14648"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16218"
            d="m 602.37427,192.74865 c 1.11,0 1.884,-0.726 1.884,-2.058 l 0,-0.126 c 0,-0.594 -0.15,-1.056 -0.402,-1.392 l 0.498,-0.6 -0.582,0 -0.222,0.282 c -0.312,-0.234 -0.702,-0.354 -1.146,-0.354 -1.116,0 -1.878,0.732 -1.878,2.064 l 0,0.126 c 0,0.57 0.126,1.026 0.36,1.356 l -0.528,0.636 0.582,0 0.252,-0.3 c 0.312,0.246 0.726,0.366 1.182,0.366 z m 0.018,-0.564 c -0.348,0 -0.612,-0.102 -0.792,-0.3 l 1.776,-2.124 c 0.078,0.222 0.102,0.486 0.102,0.792 l 0,0.216 c 0,0.846 -0.348,1.416 -1.086,1.416 z m -1.098,-1.494 0,-0.216 c 0,-0.84 0.354,-1.41 1.074,-1.404 0.342,0.006 0.582,0.102 0.762,0.276 l -1.746,2.112 c -0.078,-0.222 -0.09,-0.474 -0.09,-0.768 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14652"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16221"
            d="m 602.40676,220.72297 c 0.864,0 1.464,-0.57 1.464,-1.56 l 0,-0.096 c 0,-0.414 -0.108,-0.762 -0.294,-1.02 l 0.402,-0.468 -0.516,0 -0.162,0.192 c -0.228,-0.156 -0.534,-0.246 -0.888,-0.246 -0.87,0 -1.47,0.576 -1.47,1.572 l 0,0.096 c 0,0.402 0.084,0.726 0.258,0.984 l -0.426,0.492 0.522,0 0.18,-0.21 c 0.24,0.174 0.546,0.264 0.93,0.264 z m 0.012,-0.504 c -0.246,0 -0.438,-0.048 -0.558,-0.192 l 1.254,-1.446 c 0.036,0.126 0.054,0.288 0.054,0.474 l 0,0.168 c 0,0.672 -0.282,0.996 -0.75,0.996 z m -0.78,-1.014 0,-0.162 c 0,-0.672 0.276,-1.008 0.762,-1.008 0.204,0 0.39,0.054 0.516,0.174 l -1.242,1.422 c -0.024,-0.114 -0.036,-0.264 -0.036,-0.426 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14656"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16224"
            d="m 658.26486,188.7695 0,-0.588 -3.762,0 0,0.588 0.558,0 0,3.954 0.678,0 0,-3.954 1.296,0 0,3.954 0.678,0 0,-3.954 0.552,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14660"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16227"
            d="m 657.95625,218.46569 0.066,-0.552 -2.394,0 c -0.534,0 -0.816,0.06 -0.948,0.174 l 0.078,0.42 c 0.156,-0.036 0.366,-0.042 0.576,-0.042 -0.012,0.714 -0.168,1.836 -0.372,2.43 l 0.684,0 c 0.198,-0.474 0.366,-1.692 0.378,-2.43 l 0.834,0 0,1.584 c 0,0.432 0.03,0.744 0.096,0.846 l 0.678,0 c -0.036,-0.162 -0.072,-0.456 -0.072,-0.912 l 0,-1.518 0.396,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14692"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16251"
            d="m 615.89355,244.14023 q -0.51562,0 -0.7998,0.38086 -0.28418,0.38086 -0.28418,1.07226 0,0.68848 0.28418,1.06934 0.28418,0.38086 0.7998,0.38086 0.51856,0 0.80274,-0.38086 0.28418,-0.38086 0.28418,-1.06934 0,-0.6914 -0.28418,-1.07226 -0.28418,-0.38086 -0.80274,-0.38086 z m 0,-0.81738 q 1.05469,0 1.65235,0.60351 0.59765,0.60352 0.59765,1.66699 0,1.06055 -0.59765,1.66407 -0.59766,0.60351 -1.65235,0.60351 -1.05175,0 -1.65234,-0.60351 -0.59766,-0.60352 -0.59766,-1.66407 0,-1.06347 0.59766,-1.66699 0.60059,-0.60351 1.65234,-0.60351 z m -0.21972,-1.11036 0.58008,0.77344 -0.57422,0 -0.83496,-0.77344 0.8291,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14696"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
            id="path16254"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#504945;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3c3836;fill-opacity:1"
            d="m 563.7858,243.89479 c -0.33,0.102 -0.546,0.564 -0.546,0.9 0,0.432 0.246,0.894 0.648,1.002 -0.114,0.384 -0.42,0.864 -0.702,1.068 -0.12,0.084 -0.264,0.12 -0.432,0.12 -0.114,0 -0.24,-0.024 -0.408,-0.09 -0.138,-0.066 -0.264,-0.096 -0.348,-0.096 -0.072,0 -0.228,0.048 -0.438,0.132 -0.12,0.036 -0.216,0.06 -0.282,0.06 -0.192,0 -0.36,-0.078 -0.534,-0.222 -0.534,-0.492 -0.84,-1.212 -0.84,-1.962 0,-0.744 0.474,-1.458 1.188,-1.458 0.216,0 0.378,0.048 0.522,0.12 0.138,0.084 0.252,0.114 0.378,0.114 0.102,0 0.222,-0.018 0.336,-0.066 0.276,-0.108 0.462,-0.168 0.57,-0.168 0.276,0 0.492,0.09 0.672,0.252 0.072,0.072 0.15,0.168 0.216,0.294 z m -1.914,-0.516 c 0,-0.258 0.102,-0.48 0.276,-0.696 0.18,-0.198 0.414,-0.318 0.672,-0.36 0,0.264 -0.09,0.528 -0.27,0.738 -0.198,0.216 -0.414,0.318 -0.678,0.318 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14700"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16257"
            d="m 507.89355,244.17685 q -0.51562,0 -0.7998,0.38086 -0.28418,0.38086 -0.28418,1.07226 0,0.68848 0.28418,1.06934 0.28418,0.38086 0.7998,0.38086 0.51856,0 0.80274,-0.38086 0.28418,-0.38086 0.28418,-1.06934 0,-0.6914 -0.28418,-1.07226 -0.28418,-0.38086 -0.80274,-0.38086 z m 0,-0.81738 q 1.05469,0 1.65235,0.60351 0.59765,0.60352 0.59765,1.66699 0,1.06055 -0.59765,1.66407 -0.59766,0.60351 -1.65235,0.60351 -1.05175,0 -1.65234,-0.60351 -0.59766,-0.60352 -0.59766,-1.66407 0,-1.06347 0.59766,-1.66699 0.60059,-0.60351 1.65234,-0.60351 z m -0.52148,-1.11036 0.90234,0 0.65332,0.77344 -0.52148,0 -0.58301,-0.47168 -0.58301,0.47168 -0.52148,0 0.65332,-0.77344 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14704"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16260"
            d="m 453.99356,244.14023 q -0.51562,0 -0.7998,0.38086 -0.28418,0.38086 -0.28418,1.07226 0,0.68848 0.28418,1.06934 0.28418,0.38086 0.7998,0.38086 0.51856,0 0.80274,-0.38086 0.28417,-0.38086 0.28417,-1.06934 0,-0.6914 -0.28417,-1.07226 -0.28418,-0.38086 -0.80274,-0.38086 z m 0,-0.81738 q 1.05469,0 1.65234,0.60351 0.59766,0.60352 0.59766,1.66699 0,1.06055 -0.59766,1.66407 -0.59765,0.60351 -1.65234,0.60351 -1.05176,0 -1.65234,-0.60351 -0.59766,-0.60352 -0.59766,-1.66407 0,-1.06347 0.59766,-1.66699 0.60058,-0.60351 1.65234,-0.60351 z m 0.0791,-1.11036 0.8291,0 -0.83496,0.77344 -0.57422,0 0.58008,-0.77344 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14708"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16263"
            d="m 399.99356,244.14023 q -0.51562,0 -0.7998,0.38086 -0.28418,0.38086 -0.28418,1.07226 0,0.68848 0.28418,1.06934 0.28418,0.38086 0.7998,0.38086 0.51856,0 0.80274,-0.38086 0.28417,-0.38086 0.28417,-1.06934 0,-0.6914 -0.28417,-1.07226 -0.28418,-0.38086 -0.80274,-0.38086 z m 0,-0.81738 q 1.05469,0 1.65234,0.60351 0.59766,0.60352 0.59766,1.66699 0,1.06055 -0.59766,1.66407 -0.59765,0.60351 -1.65234,0.60351 -1.05176,0 -1.65234,-0.60351 -0.59766,-0.60352 -0.59766,-1.66407 0,-1.06347 0.59766,-1.66699 0.60058,-0.60351 1.65234,-0.60351 z m 0.0791,-1.11036 0.8291,0 -0.83496,0.77344 -0.57422,0 0.58008,-0.77344 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14712"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16266"
            d="m 345.67857,247.40692 0.624,0 0,-4.11 -0.624,0 0,4.11 z m -0.576,-4.44 0.6,0 0,-0.576 -0.6,0 0,0.576 z m 1.182,0 0.606,0 0,-0.576 -0.606,0 0,0.576 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14716"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16269"
            d="m 291.42667,243.47958 1.12793,0 0,4.37403 -1.12793,0 0,-4.37403 z m 0.041,-1.18945 0.90235,0 0.65332,0.77344 -0.52149,0 -0.58301,-0.47168 -0.583,0.47168 -0.52149,0 0.65332,-0.77344 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14720"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16272"
            d="m 237.0546,243.44296 1.12793,0 0,4.37403 -1.12793,0 0,-4.37403 z m 0.6416,-1.18945 0.8291,0 -0.83496,0.77344 -0.57422,0 0.58008,-0.77344 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14724"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16275"
            d="m 182.29788,247.60468 0.582,0 0.39,-1.116 1.572,0 0.396,1.116 0.648,0 -1.476,-4.11 -0.624,0 -1.488,4.11 z m 1.74,-3.33 0.018,0 0.606,1.722 -1.224,0 0.6,-1.722 z m 0.054,-2.028 c -0.318,0 -0.528,0.21 -0.528,0.534 0,0.288 0.204,0.504 0.522,0.504 0.294,0 0.534,-0.192 0.534,-0.534 0,-0.282 -0.192,-0.504 -0.522,-0.504 l -0.006,0 z m -0.006,0.288 c 0.144,0 0.216,0.09 0.216,0.222 0,0.15 -0.072,0.24 -0.216,0.24 -0.132,0 -0.21,-0.09 -0.21,-0.216 0,-0.156 0.078,-0.246 0.204,-0.246 l 0.006,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14728"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16278"
            d="m 210.75931,298.02383 c 0.81,-0.072 1.098,-0.252 1.098,-0.618 0,-0.258 -0.204,-0.414 -0.57,-0.438 l 0,-0.27 -0.396,0 0,0.594 c 0.312,0 0.456,0.036 0.456,0.156 0,0.108 -0.168,0.174 -0.588,0.204 l 0,0.372 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14732"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16281"
            d="m 212.2572,328.61563 c 0.366,-0.312 0.774,-0.882 0.774,-1.704 0,-1.032 -0.714,-1.914 -1.902,-1.914 -1.146,0 -1.98,0.84 -1.98,1.974 0,0.762 0.39,1.332 0.774,1.644 l 0,0.018 -0.858,0 0,0.558 1.686,0 0,-0.432 c -0.462,-0.288 -0.852,-0.99 -0.852,-1.71 0,-0.768 0.444,-1.47 1.218,-1.47 0.762,0 1.176,0.732 1.176,1.464 0,0.792 -0.396,1.392 -0.852,1.716 l 0,0.432 1.668,0 0,-0.558 -0.852,0 0,-0.018 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14736"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16284"
            d="m 265.08356,298.20986 c 0.15,0 0.27,-0.024 0.36,-0.06 l 0,-0.402 c -0.048,0.018 -0.132,0.036 -0.21,0.036 -0.144,0 -0.258,-0.03 -0.258,-0.18 0,-0.186 0.204,-0.408 0.462,-0.612 l -0.504,0 c -0.222,0.12 -0.516,0.36 -0.516,0.69 0,0.324 0.246,0.528 0.666,0.528 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14740"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16287"
            d="m 266.40618,326.24166 c -0.192,0.234 -0.402,0.318 -0.642,0.318 -0.162,0 -0.294,-0.054 -0.486,-0.12 -0.036,-0.018 -0.096,-0.042 -0.138,-0.054 -0.24,-0.102 -0.42,-0.162 -0.726,-0.162 -0.402,0 -0.708,0.216 -0.924,0.528 l 0.294,0.258 c 0.18,-0.216 0.402,-0.312 0.63,-0.312 0.18,0 0.396,0.09 0.576,0.162 0.012,0 0.042,0.012 0.054,0.018 0.258,0.096 0.408,0.156 0.72,0.156 0.408,0 0.708,-0.204 0.93,-0.528 l -0.288,-0.264 z m 0,1.344 c -0.192,0.222 -0.408,0.312 -0.642,0.312 -0.18,0 -0.318,-0.054 -0.528,-0.132 l -0.096,-0.036 c -0.276,-0.12 -0.414,-0.156 -0.726,-0.156 -0.408,0 -0.708,0.21 -0.924,0.516 l 0.294,0.264 c 0.18,-0.222 0.396,-0.306 0.63,-0.306 0.198,0 0.444,0.102 0.63,0.174 0.27,0.108 0.402,0.15 0.72,0.15 0.408,0 0.708,-0.21 0.93,-0.528 l -0.288,-0.258 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14744"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16290"
            d="m 320.9158,299.64893 q -0.31054,0.16113 -0.64746,0.24316 -0.33691,0.082 -0.70312,0.082 -1.09278,0 -1.73145,-0.60937 -0.63867,-0.61231 -0.63867,-1.65821 0,-1.04883 0.63867,-1.6582 0.63867,-0.6123 1.73145,-0.6123 0.36621,0 0.70312,0.082 0.33692,0.082 0.64746,0.24316 l 0,0.90527 q -0.31347,-0.21386 -0.61816,-0.31347 -0.30469,-0.0996 -0.6416,-0.0996 -0.60352,0 -0.94922,0.38672 -0.34571,0.38672 -0.34571,1.0664 0,0.67676 0.34571,1.06348 0.3457,0.38672 0.94922,0.38672 0.33691,0 0.6416,-0.0996 0.30469,-0.0996 0.61816,-0.31348 l 0,0.90528 z m -1.16894,0.24023 q 0.16992,0.18164 0.24902,0.33691 0.082,0.15528 0.082,0.29297 0,0.27832 -0.18164,0.41016 -0.17871,0.13476 -0.55078,0.13476 -0.14063,0 -0.29004,-0.0205 -0.14941,-0.0176 -0.30176,-0.0557 l -0.003,-0.44531 q 0.14649,0.0469 0.2666,0.0674 0.12305,0.0234 0.21973,0.0234 0.16992,0 0.26367,-0.0674 0.0967,-0.0674 0.0967,-0.18457 0,-0.0762 -0.0645,-0.19629 -0.0615,-0.12012 -0.19336,-0.2959 l 0.40723,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14748"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16293"
            d="m 320.43533,324.7041 0,0.85547 q -0.21386,-0.14648 -0.43066,-0.2168 -0.21387,-0.0703 -0.44531,-0.0703 -0.43946,0 -0.68555,0.25781 -0.24316,0.25489 -0.24316,0.71485 0,0.45996 0.24316,0.71777 0.24609,0.25488 0.68555,0.25488 0.24609,0 0.46582,-0.0732 0.22265,-0.0732 0.41015,-0.2168 l 0,0.8584 q -0.24609,0.0908 -0.50097,0.13477 -0.25196,0.0469 -0.50684,0.0469 -0.88769,0 -1.38867,-0.4541 -0.50098,-0.45703 -0.50098,-1.26855 0,-0.81153 0.50098,-1.26563 0.50098,-0.45703 1.38867,-0.45703 0.25781,0 0.50684,0.0469 0.25195,0.0439 0.50097,0.13476 z m -0.85254,3.17871 q 0.16993,0.18164 0.24903,0.33692 0.082,0.15527 0.082,0.29297 0,0.27832 -0.18164,0.41015 -0.17871,0.13477 -0.55078,0.13477 -0.14063,0 -0.29004,-0.0205 -0.14942,-0.0176 -0.30176,-0.0557 l -0.003,-0.44532 q 0.14648,0.0469 0.2666,0.0674 0.12305,0.0234 0.21973,0.0234 0.16992,0 0.26367,-0.0674 0.0967,-0.0674 0.0967,-0.18457 0,-0.0762 -0.0645,-0.19629 -0.0615,-0.12012 -0.19336,-0.2959 l 0.40722,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14752"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16296"
            d="m 373.08544,296.0484 -2.112,2.358 c 0.702,0.786 1.41,1.572 2.112,2.346 0.708,-0.774 1.41,-1.56 2.118,-2.346 -0.708,-0.78 -1.41,-1.572 -2.118,-2.358 z m 0,3.942 -1.416,-1.584 1.416,-1.584 1.416,1.584 -1.416,1.584 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14756"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16299"
            d="m 374.83914,324.98714 -0.48,0 c -0.33,1.38 -0.678,2.826 -1.02,4.206 l -0.066,0.318 -0.006,0 c -0.246,-0.744 -0.516,-1.476 -0.78,-2.22 l -0.888,0.372 c 0.042,0.102 0.096,0.216 0.138,0.324 l 0.432,-0.168 0.9,2.394 0.45,0 c 0.444,-1.734 0.888,-3.486 1.32,-5.226 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14760"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16302"
            d="m 426.64576,299.43451 0.696,0 0,-3.09 -0.696,0 0,3.09 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14764"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16305"
            d="m 427.90274,324.01186 c -0.054,-0.024 -0.168,-0.042 -0.288,-0.042 -0.216,0 -0.426,0.072 -0.576,0.228 -0.216,0.24 -0.318,0.57 -0.318,1.17 0,0.882 0.078,1.776 0.078,2.7 0,0.51 -0.072,0.726 -0.162,0.84 -0.072,0.084 -0.156,0.12 -0.252,0.12 -0.078,0 -0.156,-0.018 -0.21,-0.036 l -0.078,0.42 c 0.066,0.036 0.21,0.066 0.354,0.066 0.252,0 0.492,-0.108 0.636,-0.348 0.138,-0.192 0.222,-0.54 0.222,-1.074 0,-0.912 -0.078,-1.788 -0.078,-2.64 0,-0.48 0.048,-0.738 0.15,-0.876 0.06,-0.09 0.162,-0.144 0.264,-0.144 0.066,0 0.138,0.012 0.192,0.024 l 0.066,-0.408 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14768"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16308"
            d="m 480.07925,298.26505 0.408,0 c 0.024,-0.144 0.084,-0.216 0.186,-0.216 0.054,0 0.138,0.042 0.228,0.084 0.114,0.06 0.246,0.12 0.39,0.12 0.276,0 0.558,-0.21 0.606,-0.708 l -0.438,0 c -0.018,0.138 -0.09,0.21 -0.18,0.21 -0.054,0 -0.132,-0.036 -0.222,-0.084 -0.114,-0.054 -0.246,-0.12 -0.396,-0.12 -0.282,0 -0.558,0.198 -0.606,0.69 l 0.024,0.024 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14772"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16311"
            d="m 481.03132,328.97112 c -0.168,-0.138 -0.342,-0.246 -0.624,-0.288 -0.414,-0.06 -0.876,0.15 -1.032,0.858 0.156,0.072 0.306,0.15 0.468,0.228 0.066,-0.33 0.288,-0.534 0.516,-0.504 l -0.006,0 c 0.18,0.018 0.48,0.234 0.672,0.384 0.186,0.132 0.42,0.228 0.696,0.24 0.438,0.006 0.864,-0.276 0.942,-0.972 -0.18,-0.06 -0.324,-0.114 -0.504,-0.18 -0.03,0.336 -0.234,0.57 -0.444,0.57 -0.24,0 -0.468,-0.186 -0.684,-0.336 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14776"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16314"
            d="m 535.8739,300.65674 -1.76367,0 -0.27832,0.79687 -1.13379,0 1.62012,-4.37402 1.34472,0 1.62012,4.37402 -1.13379,0 -0.27539,-0.79687 z m -1.48242,-0.81153 1.19824,0 -0.59765,-1.74023 -0.60059,1.74023 z m 0.0762,-3.95507 0.90235,0 0.65332,0.77343 -0.52149,0 -0.58301,-0.47168 -0.583,0.47168 -0.52149,0 0.65332,-0.77343 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14780"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16317"
            d="m 533.29724,329.06055 0,-4.53516 1.05762,0 0,1.90723 q 0,0.33984 0.14648,0.50683 0.14649,0.16407 0.44532,0.16407 0.30175,0 0.44824,-0.16407 0.14648,-0.16699 0.14648,-0.50683 l 0,-1.90723 1.05469,0 0,2.19434 q 0,0.208 0.0469,0.29004 0.0498,0.082 0.16407,0.082 0.0527,0 0.0996,-0.0146 0.0498,-0.0147 0.10546,-0.0498 l 0,0.73243 q -0.15527,0.0674 -0.29296,0.0996 -0.13477,0.0322 -0.26661,0.0322 -0.26074,0 -0.42773,-0.1084 -0.16406,-0.11133 -0.2666,-0.35449 -0.1377,0.23145 -0.33692,0.34863 -0.19628,0.11426 -0.45703,0.11426 -0.21679,0 -0.36914,-0.0703 -0.15234,-0.0674 -0.24023,-0.20801 l 0,1.44727 -1.05762,0 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14820"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16347"
            d="m 618.25092,273.83535 -4.848,0 0,0.348 4.494,0 0,1.44 0.354,0 0,-1.788 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14824"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16350"
            d="m 561.88964,274.31162 c 0.354,0 0.612,-0.27 0.612,-0.576 0,-0.324 -0.258,-0.582 -0.612,-0.582 -0.336,0 -0.6,0.258 -0.6,0.582 0,0.306 0.264,0.576 0.6,0.576 z m 0,-0.324 c -0.156,0 -0.24,-0.096 -0.24,-0.252 0,-0.156 0.084,-0.27 0.24,-0.27 0.168,0 0.258,0.114 0.258,0.27 0,0.156 -0.09,0.252 -0.258,0.252 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14828"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16353"
            d="m 506.65385,275.04796 c 0.426,-0.87 0.87,-1.752 1.308,-2.628 0.432,0.876 0.864,1.758 1.302,2.628 l -2.61,0 z m 1.512,-3.282 c -0.024,-0.024 -0.054,-0.036 -0.09,-0.036 -0.054,0 -0.102,0.048 -0.174,0.162 -0.552,1.11 -1.104,2.22 -1.662,3.318 -0.048,0.096 -0.102,0.174 -0.108,0.246 0.06,0.018 0.15,0.03 0.258,0.03 l 3.312,0 c 0.12,0 0.216,-0.012 0.27,-0.048 -0.006,-0.066 -0.036,-0.156 -0.102,-0.282 l -1.704,-3.39 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14832"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16356"
            d="m 453.67179,273.88629 0.636,0 0,-0.624 -0.636,0 0,0.624 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14836"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16359"
            d="m 399.67179,273.88629 0.636,0 0,-0.624 -0.636,0 0,0.624 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14840"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068809)">
         <path
            id="path16362"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#504945;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#3c3836;fill-opacity:1"
            d="m 289.99907,271.87857 c 0.198,-0.102 0.444,-0.228 0.786,-0.228 0.564,0 1.014,0.516 1.014,1.38 0,0.042 0,0.102 -0.006,0.144 l -0.006,0 c -0.12,-0.21 -0.432,-0.468 -0.9,-0.468 -0.732,0 -1.254,0.624 -1.254,1.41 0,0.6 0.378,1.236 1.194,1.236 0.864,0 1.626,-0.744 1.626,-2.196 0,-1.296 -0.732,-2.046 -1.602,-2.046 -0.516,0 -0.852,0.186 -1.056,0.318 l 0.204,0.45 z m 0.894,2.934 c -0.336,0 -0.588,-0.264 -0.588,-0.702 0,-0.498 0.312,-0.876 0.726,-0.876 0.354,0 0.606,0.252 0.696,0.492 -0.072,0.564 -0.384,1.086 -0.834,1.086 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14844"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
            id="path16365"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#504945;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#3c3836;fill-opacity:1"
            d="m 238.31925,275.74104 c 0.66,0 1.08,-0.318 1.08,-0.906 0,-0.426 -0.204,-0.672 -0.624,-0.882 l -0.276,-0.144 c -0.204,-0.114 -0.306,-0.198 -0.306,-0.378 0,-0.324 0.834,-0.636 0.834,-1.296 0,-0.576 -0.432,-0.876 -1.224,-0.876 -0.744,0 -1.41,0.36 -1.41,1.23 l 0,3.198 0.696,0 0,-3.144 c 0,-0.528 0.276,-0.774 0.702,-0.774 0.342,0 0.558,0.15 0.558,0.432 0,0.426 -0.792,0.732 -0.792,1.338 0,0.402 0.174,0.612 0.57,0.81 l 0.246,0.12 c 0.252,0.132 0.342,0.234 0.342,0.402 0,0.21 -0.162,0.342 -0.51,0.342 -0.294,0 -0.468,-0.054 -0.702,-0.126 l 0,0.504 c 0.24,0.102 0.462,0.15 0.816,0.15 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14848"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
-           style="fill:#504945;fill-opacity:1"
+           style="fill:#3c3836;fill-opacity:1"
            id="path16368"
            d="m 347.80264,270.77011 0,0.74414 q -0.13476,-0.085 -0.25781,-0.12597 -0.12305,-0.041 -0.24609,-0.041 -0.26368,0 -0.41016,0.16992 -0.14648,0.16699 -0.22559,0.58008 l -0.0967,0.49219 0.83497,0 0,0.69726 -0.97266,0 -0.38965,1.97168 q -0.12012,0.60352 -0.45703,0.90235 -0.33398,0.29882 -0.89355,0.29882 -0.19043,0 -0.38672,-0.0293 -0.19336,-0.0293 -0.39258,-0.0908 l 0,-0.74414 q 0.13476,0.085 0.25781,0.12597 0.12598,0.041 0.24609,0.041 0.26075,0 0.4043,-0.16992 0.14649,-0.167 0.23145,-0.58008 l 0.34277,-1.72559 -0.70898,0 0,-0.69726 0.84668,0 0.14941,-0.73828 q 0.12305,-0.60352 0.4541,-0.89942 0.33399,-0.29883 0.89063,-0.29883 0.19336,0 0.38671,0.0293 0.19336,0.0293 0.39258,0.0879 z"
            inkscape:connector-curvature="0" />
       </g>
       <g
          id="text14852"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#504945;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;line-height:125%;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#3c3836;fill-opacity:1;stroke:none"
          transform="matrix(1.251206,0,0,1.251206,-28.779255,-25.068833)">
         <path
            id="path16371"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#504945;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo Semi-Bold';fill:#3c3836;fill-opacity:1"
            d="m 183.86288,275.60838 c 0.396,0 0.648,-0.132 0.792,-0.312 l 0.036,0 0.054,0.258 0.486,0 0,-2.214 c 0,-0.618 -0.402,-0.906 -1.092,-0.906 -0.378,0 -0.69,0.06 -0.972,0.174 l 0,0.408 c 0.186,-0.036 0.438,-0.084 0.738,-0.084 0.54,0 0.732,0.102 0.732,0.558 l 0,0.264 -0.768,0.09 c -0.594,0.078 -0.954,0.348 -0.954,0.894 0,0.594 0.396,0.87 0.948,0.87 z m 0.156,-0.432 c -0.306,0 -0.504,-0.15 -0.504,-0.462 0,-0.318 0.162,-0.45 0.486,-0.486 l 0.636,-0.066 0,0.816 c -0.12,0.108 -0.366,0.198 -0.618,0.198 z m 0.156,-4.044 c -0.312,0 -0.528,0.21 -0.528,0.534 0,0.288 0.204,0.504 0.522,0.504 0.294,0 0.534,-0.192 0.534,-0.534 0,-0.282 -0.192,-0.504 -0.522,-0.504 l -0.006,0 z m -0.006,0.288 c 0.144,0 0.216,0.096 0.216,0.222 0,0.15 -0.072,0.24 -0.216,0.24 -0.132,0 -0.204,-0.09 -0.204,-0.216 0,-0.15 0.072,-0.246 0.198,-0.246 l 0.006,0 z"
            inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g11504">
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15226">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 119.05913,139.04909 -0.23,-4.54 q -0.01,-0.13 0.07,-0.22 0.09,-0.1 0.22,-0.1 l 0.35,0 q 0.13,0 0.21,0.09 0.09,0.09 0.08,0.23 l -0.23,4.54 q -0.01,0.1 -0.08,0.17 -0.06,0.06 -0.15,0.06 -0.22,0 -0.24,-0.23 z m -0.24,1.54 q 0,-0.2 0.13,-0.33 0.14,-0.14 0.35,-0.14 0.2,0 0.33,0.14 0.14,0.13 0.14,0.33 l 0,0.2 q 0,0.2 -0.14,0.34 -0.13,0.14 -0.33,0.14 -0.21,0 -0.35,-0.14 -0.13,-0.14 -0.13,-0.34 l 0,-0.2 z"
+           id="path16008"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.60951996px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15230">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 172.96498,141.38534 q -1.63581,0 -2.73783,-1.10202 -1.10202,-1.0934 -1.10202,-2.65173 0,-1.54971 1.09341,-2.66034 1.10202,-1.11063 2.67756,-1.11063 1.55833,0 2.65174,1.02454 1.10201,1.01592 1.10201,2.38483 0,1.02454 -0.48213,1.56693 -0.47352,0.5424 -1.12785,0.5424 -0.4563,0 -0.76624,-0.1894 -0.30995,-0.19802 -0.43909,-0.5338 -0.61128,0.7232 -1.42057,0.7232 -0.64571,0 -1.09341,-0.43047 -0.44769,-0.43909 -0.44769,-1.13646 0,-0.88678 0.61127,-1.51527 0.61989,-0.6285 1.37752,-0.6285 0.85235,0 1.25699,0.71459 l 0.0689,-0.37021 q 0.0517,-0.29272 0.30133,-0.29272 0.13776,0 0.22385,0.11192 0.0861,0.10332 0.0603,0.24968 l -0.30994,1.73912 q -0.0603,0.33577 -0.0603,0.52518 0,0.32716 0.18941,0.51657 0.19802,0.1808 0.5424,0.1808 0.49935,0 0.85234,-0.4563 0.35299,-0.45631 0.35299,-1.31726 0,-1.22255 -1.00731,-2.1696 -0.99871,-0.94704 -2.4365,-0.94704 -1.47222,0 -2.47093,1.01592 -0.99009,1.01592 -0.99009,2.46232 0,1.45501 0.9987,2.45372 0.9987,1.00731 2.5312,1.00731 1.11924,0 2.07489,-0.55101 0.0344,-0.0172 0.0861,-0.0172 0.0517,0 0.0861,0.043 0.043,0.043 0.043,0.0947 0,0.0517 -0.0689,0.12054 -1.03315,0.60266 -2.22126,0.60266 z m -0.42187,-2.53981 q 0.55101,0 0.98149,-0.46491 0.43047,-0.47352 0.43047,-1.0848 0,-0.47352 -0.30133,-0.78347 -0.29272,-0.30994 -0.74903,-0.30994 -0.55962,0 -0.99009,0.45631 -0.42187,0.4563 -0.42187,1.11062 0,0.49936 0.29272,0.79208 0.29273,0.28411 0.75764,0.28411 z"
+           id="path16011"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.2107983,0,0,1.2929622,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.22530937px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15234">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 232.17949,136.16864 0.22141,-1.29154 -0.73803,0 q -0.12915,0 -0.22141,-0.0923 -0.0923,-0.0923 -0.0923,-0.22141 0,-0.12916 0.0923,-0.22141 0.0923,-0.10148 0.22141,-0.10148 l 0.84873,0 0.34134,-1.95576 -0.83028,0 q -0.12916,0 -0.23063,-0.0923 -0.0923,-0.0923 -0.0923,-0.2214 0,-0.12916 0.0923,-0.22141 0.10147,-0.10148 0.23063,-0.10148 l 0.94098,0 0.23063,-1.35612 q 0.0185,-0.12915 0.11071,-0.20296 0.0923,-0.083 0.21218,-0.083 0.15683,0 0.23986,0.11993 0.0922,0.11992 0.0738,0.26753 l -0.22141,1.25464 1.73436,0 0.23063,-1.35612 q 0.0185,-0.12915 0.11071,-0.20296 0.0922,-0.083 0.21218,-0.083 0.15683,0 0.23986,0.11993 0.0923,0.11992 0.0738,0.26753 l -0.21218,1.25464 0.7288,0 q 0.12915,0 0.2214,0.0923 0.10148,0.0923 0.10148,0.22141 0,0.12916 -0.10148,0.23063 -0.0923,0.0923 -0.2214,0.0923 l -0.83951,0 -0.34133,1.95576 0.82105,0 q 0.12915,0 0.22141,0.0923 0.10148,0.0923 0.10148,0.2214 0,0.12916 -0.10148,0.23064 -0.0923,0.0923 -0.22141,0.0923 l -0.93176,0 -0.23985,1.39302 q -0.009,0.11993 -0.10148,0.20296 -0.0923,0.083 -0.22141,0.083 -0.15683,0 -0.24908,-0.11993 -0.083,-0.11993 -0.0646,-0.26754 l 0.23063,-1.29154 -1.73436,0 -0.23985,1.39302 q -0.0185,0.11993 -0.11071,0.20296 -0.083,0.083 -0.21218,0.083 -0.15683,0 -0.24908,-0.11071 -0.083,-0.11993 -0.0646,-0.27676 z m 0.98711,-1.92809 1.72513,0 0.34134,-1.95576 -1.72514,0 -0.34133,1.95576 z"
+           id="path16014"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15238">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 280.5725,134.22302 q 0,-0.13 0.09,-0.22 0.1,-0.1 0.23,-0.1 0.13,0 0.22,0.1 0.1,0.09 0.1,0.22 l 0,0.33 q 0.9,0.1 1.69,0.64 0.2,0.15 0.2,0.33 0,0.16 -0.11,0.26 -0.11,0.1 -0.27,0.1 -0.13,0 -0.22,-0.07 -0.66,-0.48 -1.32,-0.58 l 0,2.47 q 1.14,0.25 1.65,0.72 0.51,0.46 0.51,1.22 0,0.8 -0.59,1.32 -0.59,0.51 -1.54,0.57 l 0,0.71 q 0,0.13 -0.1,0.22 -0.09,0.1 -0.22,0.1 -0.13,0 -0.23,-0.1 -0.09,-0.09 -0.09,-0.22 l 0,-0.73 q -1.16,-0.1 -2.17,-0.89 -0.17,-0.12 -0.17,-0.32 0,-0.15 0.11,-0.25 0.11,-0.11 0.26,-0.11 0.13,0 0.23,0.08 0.84,0.71 1.77,0.82 l 0,-2.51 q -1.12,-0.27 -1.63,-0.72 -0.5,-0.45 -0.5,-1.23 0,-0.77 0.59,-1.28 0.59,-0.52 1.51,-0.57 l 0,-0.31 z m 2,5.47 q 0,-0.46 -0.3,-0.74 -0.3,-0.29 -1.09,-0.49 l 0,2.41 q 0.64,-0.04 1.01,-0.36 0.38,-0.32 0.38,-0.82 z m -3.33,-3.36 q 0,0.46 0.29,0.74 0.29,0.28 1.07,0.49 l 0,-2.36 q -0.62,0.03 -0.99,0.35 -0.37,0.31 -0.37,0.78 z"
+           id="path16017"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15242">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 335.42634,137.19908 q -0.45,0.53 -1.14,0.53 -0.69,0 -1.14,-0.52 -0.44,-0.52 -0.44,-1.25 l 0,-0.02 q 0,-0.73 0.45,-1.26 0.45,-0.53 1.15,-0.53 0.69,0 1.13,0.52 0.44,0.52 0.44,1.25 l 0,0.02 q 0,0.73 -0.45,1.26 z m -1.75,3.8 q 0,-0.1 0.06,-0.19 l 4.76,-6.49 q 0.11,-0.14 0.25,-0.14 0.12,0 0.2,0.09 0.09,0.08 0.09,0.19 0,0.1 -0.06,0.19 l -4.76,6.49 q -0.1,0.14 -0.25,0.14 -0.12,0 -0.21,-0.08 -0.08,-0.09 -0.08,-0.2 z m 4.73,0.31 q -0.69,0 -1.13,-0.52 -0.44,-0.52 -0.44,-1.25 l 0,-0.02 q 0,-0.73 0.45,-1.26 0.45,-0.53 1.14,-0.53 0.69,0 1.13,0.52 0.44,0.52 0.44,1.25 l 0,0.02 q 0,0.74 -0.45,1.27 -0.44,0.52 -1.14,0.52 z m -4.1,-4.14 q 0.4,0 0.65,-0.35 0.26,-0.35 0.26,-0.86 l 0,-0.02 q 0,-0.52 -0.27,-0.87 -0.27,-0.36 -0.66,-0.36 -0.4,0 -0.66,0.35 -0.25,0.35 -0.25,0.86 l 0,0.02 q 0,0.52 0.27,0.88 0.27,0.35 0.66,0.35 z m 4.12,3.58 q 0.4,0 0.65,-0.35 0.26,-0.35 0.26,-0.86 l 0,-0.02 q 0,-0.52 -0.27,-0.87 -0.27,-0.36 -0.66,-0.36 -0.4,0 -0.66,0.35 -0.25,0.35 -0.25,0.86 l 0,0.02 q 0,0.52 0.27,0.88 0.27,0.35 0.66,0.35 z"
+           id="path16020"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.2077887,0,0,1.296184,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15.92095947px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15246">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 402.74764,131.33488 -1.60801,2.11749 q -0.31842,0.39802 -0.79605,0.39802 -0.12737,0 -0.2229,-0.0637 -0.0796,-0.0796 -0.0796,-0.15921 0,-0.14329 0.11145,-0.3025 l 1.89459,-2.53143 q 0.31842,-0.39803 0.65276,-0.39803 l 0.12737,0 q 0.33434,0 0.65276,0.39803 l 1.87867,2.53143 q 0.12737,0.14329 0.12737,0.3025 0,0.22289 -0.31842,0.22289 -0.49355,0 -0.81197,-0.39802 l -1.60802,-2.11749 z"
+           id="path16023"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15250">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 445.72751,141.52302 q -0.1,0.1 -0.26,0.1 -0.16,0 -0.32,-0.14 l -0.91,-0.95 q -1.02,1.1 -2.3,1.1 -0.95,0 -1.58,-0.54 -0.62,-0.55 -0.62,-1.42 l 0,-0.02 q 0,-1.36 1.69,-2.02 -0.7,-0.82 -0.7,-1.54 l 0,-0.02 q 0,-0.7 0.51,-1.18 0.52,-0.48 1.34,-0.48 0.73,0 1.21,0.46 0.49,0.46 0.49,1.12 l 0,0.02 q 0,1.24 -1.65,1.82 l 1.6,1.63 q 0.41,-0.61 0.73,-1.33 0.11,-0.21 0.32,-0.21 0.15,0 0.25,0.11 0.11,0.1 0.11,0.25 0,0.08 -0.05,0.18 -0.42,0.88 -0.87,1.49 l 0.97,0.99 q 0.15,0.17 0.15,0.31 0,0.16 -0.11,0.27 z m -3.54,-4.14 q 1.35,-0.46 1.35,-1.33 l 0,-0.02 q 0,-0.42 -0.28,-0.69 -0.28,-0.28 -0.71,-0.28 -0.47,0 -0.77,0.29 -0.29,0.29 -0.29,0.72 l 0,0.02 q 0,0.31 0.15,0.59 0.15,0.27 0.55,0.7 z m -0.19,3.58 q 0.94,0 1.76,-0.92 l -1.88,-1.92 q -0.67,0.25 -1.01,0.65 -0.33,0.39 -0.33,0.85 l 0,0.02 q 0,0.57 0.41,0.95 0.41,0.37 1.05,0.37 z"
+           id="path16026"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-30.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15254">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 497.96595,140.18302 0.14,-1.785 -1.47,1.0325 q -0.1925,0.14 -0.35,0.14 -0.175,0 -0.315,-0.1225 -0.1225,-0.14 -0.1225,-0.3325 0,-0.2975 0.315,-0.4025 l 1.6975,-0.7875 -1.6975,-0.7875 q -0.315,-0.1575 -0.315,-0.42 0,-0.175 0.1225,-0.2975 0.14,-0.14 0.315,-0.1575 0.1575,0 0.35,0.14 l 1.47,1.0325 -0.14,-1.7675 q -0.0175,-0.21 0.105,-0.35 0.1225,-0.1575 0.315,-0.1575 0.1925,0 0.315,0.1575 0.14,0.14 0.105,0.3325 l -0.14,1.785 1.47,-1.0325 q 0.1925,-0.14 0.35,-0.14 0.175,0 0.2975,0.14 0.14,0.1225 0.14,0.315 0,0.28 -0.315,0.42 l -1.6975,0.7875 1.6975,0.7875 q 0.315,0.105 0.315,0.4025 0,0.175 -0.14,0.315 -0.1225,0.14 -0.2975,0.14 -0.1575,0 -0.35,-0.14 l -1.47,-1.0325 0.14,1.785 q 0.035,0.1925 -0.105,0.35 -0.1225,0.14 -0.315,0.14 -0.1925,0 -0.3325,-0.14 -0.1225,-0.1575 -0.0875,-0.35 z"
+           id="path16029"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15258">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 551.94251,141.96908 q -0.14,0 -0.18,-0.04 -2.63,-1.55 -2.63,-4.2 0,-2.65 2.63,-4.2 0.04,-0.04 0.18,-0.04 0.12,0 0.21,0.09 0.09,0.09 0.09,0.21 0,0.17 -0.15,0.27 -2.18,1.43 -2.18,3.67 0,2.24 2.18,3.67 0.15,0.1 0.15,0.27 0,0.12 -0.09,0.21 -0.09,0.09 -0.21,0.09 z"
+           id="path16032"
+           style="fill:#9f927b;fill-opacity:1" />
+      </g>
+      <g
+         transform="matrix(1.251206,0,0,1.251206,-28.779258,-25.068838)"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#9f927b;fill-opacity:1;stroke:none"
+         id="text15262">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 603.43252,141.96908 q -0.12,0 -0.21,-0.09 -0.09,-0.09 -0.09,-0.21 0,-0.17 0.15,-0.27 2.18,-1.43 2.18,-3.67 0,-2.24 -2.18,-3.67 -0.15,-0.1 -0.15,-0.27 0,-0.12 0.09,-0.21 0.09,-0.09 0.21,-0.09 0.14,0 0.18,0.04 2.63,1.55 2.63,4.2 0,2.65 -2.63,4.2 -0.04,0.04 -0.18,0.04 z"
+           id="path16035"
+           style="fill:#9f927b;fill-opacity:1" />
       </g>
     </g>
   </g>
