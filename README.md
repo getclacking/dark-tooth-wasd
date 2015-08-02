@@ -23,3 +23,8 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 ### WASD Pre-shipping photo
 
 [![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/wasd-photo.png)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/wasd-photo.png)
+
+### Notes
+
+The printed caps are being shipped to me shortly, I'll post a finished
+installed cap set here as soon as I have them.
