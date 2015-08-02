@@ -20,4 +20,6 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 
 ![](wasd-preview.jpg)
 
+### WASD Pre-shipping photo
+
 ![](wasd-photo.png)
