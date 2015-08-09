@@ -31,9 +31,3 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 [![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam3.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam1.jpg)
 
 [![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam2.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam3.jpg)
-
-
-### Notes
-
-The printed caps are being shipped to me shortly, I'll post a finished
-installed cap set here as soon as I have them.
