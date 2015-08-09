@@ -1,5 +1,7 @@
 # Darktooth WASD Keyboard layout design
 
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)
+
 This is a keyboard layout based on my Emacs theme, Darktooth.
 
 Layout is Mac / ANSI. (Super = Cmd, Meta = Alt)
