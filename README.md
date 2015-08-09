@@ -26,8 +26,14 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 
 ### Photos after installing
 
-[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam1.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam2.jpg)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam1.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam1.jpg)
 
-[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam3.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam1.jpg)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam2.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam2.jpg)
 
-[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam2.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam3.jpg)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam3.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam3.jpg)
+
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam4.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam4.jpg)
+
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam5.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam5.jpg)
+
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)
