@@ -1,6 +1,6 @@
 # Darktooth WASD Keyboard layout design
 
-[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam7.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam7.jpg)
 
 This is a keyboard layout based on my Emacs theme, Darktooth.
 
@@ -39,3 +39,5 @@ Intended to be used with http://wasdkeyboards.com v2 keyboard / keycaps design t
 [![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam5.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam5.jpg)
 
 [![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam6.jpg)
+
+[![](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam7.jpg)](https://raw.githubusercontent.com/emacsfodder/dark-tooth-wasd/master/glam7.jpg)
